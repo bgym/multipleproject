@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="boservice" />
+        <module name="bosvcservice" />
+        <module name="center" />
+        <module name="multipleproject" />
+        <module name="object" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="boservice" target="1.8" />
+      <module name="bosvcservice" target="1.8" />
+      <module name="center" target="1.8" />
+      <module name="multipleproject" target="1.8" />
+      <module name="object" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

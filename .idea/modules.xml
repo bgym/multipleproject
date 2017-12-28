@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/boservice/boservice.iml" filepath="$PROJECT_DIR$/boservice/boservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bosvcservice/bosvcservice.iml" filepath="$PROJECT_DIR$/bosvcservice/bosvcservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/center/center.iml" filepath="$PROJECT_DIR$/center/center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multipleproject.iml" filepath="$PROJECT_DIR$/multipleproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/object/object.iml" filepath="$PROJECT_DIR$/object/object.iml" />
+    </modules>
+  </component>
+</project>
